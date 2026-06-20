@@ -3,4 +3,5 @@ public class Student {
     private String name;
     private double price;
     private String yobaaaaa;
+
 }
